@@ -1,0 +1,2 @@
+WASD - Move
+Left Click - Interact
